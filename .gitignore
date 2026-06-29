@@ -1,0 +1,11 @@
+# Windows 暫存檔
+~$*
+Thumbs.db
+desktop.ini
+
+# Office 暫存檔
+*.tmp
+*.bak
+
+# 系統隱藏檔
+.DS_Store
