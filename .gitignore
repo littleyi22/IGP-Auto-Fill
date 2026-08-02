@@ -1,7 +1,5 @@
-﻿*
+*
 !output/
 !output/special_ed_competencies_*.json
-!auto_fill_igp/
-!auto_fill_igp/SKILL.md
 !README.md
 !.gitignore
