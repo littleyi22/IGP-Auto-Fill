@@ -1,7 +1,0 @@
-﻿Row 6 unique cells (2 total):
-  unique_col[0]: '特需領域|核心素養|(創造力、情意發展、領導才能、獨立研究)|(可自行增減)'
-  unique_col[2]: ''
-
-Row 3 unique cells (2 total):
-  unique_col[0]: '教學時間'
-  unique_col[2]: ''

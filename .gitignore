@@ -1,11 +1,7 @@
-# Windows 暫存檔
-~$*
-Thumbs.db
-desktop.ini
-
-# Office 暫存檔
-*.tmp
-*.bak
-
-# 系統隱藏檔
-.DS_Store
+﻿*
+!output/
+!output/special_ed_competencies_*.json
+!auto_fill_igp/
+!auto_fill_igp/SKILL.md
+!README.md
+!.gitignore
